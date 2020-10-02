@@ -1,0 +1,105 @@
+.bg-div{
+    background-color: rgb(39, 39, 39);
+    border-radius: 40px 0 0 40px;
+    margin-bottom: 40px;
+    padding: 40px;
+    
+}
+
+p{
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+    
+}
+
+
+.bg-div2{
+    background-color: rgb(39, 39, 39);
+    border-radius: 0 40px 40px 0;
+    margin-bottom: 40px;
+    padding: 40px;
+  
+}
+
+
+
+.row{
+    margin-left: -15%;
+    margin-right: -15%;
+    
+}
+
+body{
+    background-color: #5a3ac6;
+    
+}
+
+
+.container{
+    margin-top: 15px;
+   
+}
+
+.p-div{
+    font-size: 80px;  
+    color: rgb(255, 255, 255);
+}
+
+
+
+html {
+    scroll-behavior: smooth;
+  }
+
+  .pp{
+      padding: 0 !important;
+    font-size: 80px;
+    color: rgb(255, 255, 255);
+  }
+  
+  section{
+      background-color:#472aa5;
+      box-shadow: 0 0 12px black;
+  }
+
+  .teste{
+    align-items: center;
+    display: flex;
+  }
+
+  .teste2{
+    align-items: center;
+    display: flex;
+  }
+
+  .teste3{
+    align-items: center;
+    display: flex;
+  }
+
+  .teste4{
+    align-items: center;
+    display: flex;
+  }
+
+
+.ppp{
+    text-align: center;
+    align-items: center;
+    transform: translateY(25px);
+}
+.div-spc{
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 40px;
+    height: 100px;
+    background-color: #7157c7 ;
+    transition: .4s;
+}
+
+.div-spc:hover{
+    box-shadow: 0 0 26px white;
+    transform: scale(1.1, 1.1);
+
+}
+
